@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #348cb2 url("images/bg2.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -527,7 +527,7 @@
 		}
 
 		#header nav {
-			margin: 1.5em 0 0 0;
+			margin: 2.5em 0 0 0;
 		}
 
 			#header nav li {
@@ -932,8 +932,8 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
-			width: 900px;
+			background-size: 1000px auto;
+			width: 1238px;
 		}
 
 	/* Header */
@@ -1030,7 +1030,7 @@
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: 1240px auto;
 			width: 1237.5px;
 		}
 
